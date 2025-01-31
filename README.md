@@ -1,2 +1,2 @@
 # ClimaNow
-Leveraging OpenWeather API
+Leveraging OpenWeather API using MERN stack
