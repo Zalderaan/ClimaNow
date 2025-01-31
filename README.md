@@ -1,0 +1,2 @@
+# ClimaNow
+Leveraging OpenWeather API
